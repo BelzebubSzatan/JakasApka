@@ -6,12 +6,5 @@
         xmlns:local="clr-namespace:JakasApka"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Label Content="420"/>
-        <Border>
-            <Label Content="2137">
-                
-            </Label>
-        </Border>
-    </Grid>
+
 </Window>
