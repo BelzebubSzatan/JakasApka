@@ -7,12 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="420"/>
-        <Border>
-            <Label Content="2137">
-                
-            </Label>
-        </Border>
-        <Button Content="JP||2137"/>
+        <Image Source="https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcT39XQDE9Nzzg3PQGutTTk5ooUWM4AD8_AjqipWHSfm60HQSMP3xcIyBvzjw95af_tM"/>
     </Grid>
 </Window>
