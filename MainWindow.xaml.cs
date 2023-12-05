@@ -23,6 +23,11 @@ namespace JakasApka
         public MainWindow()
         {
             InitializeComponent();
+
+        }
+        void speen()
+        {
+            
         }
     }
 }
