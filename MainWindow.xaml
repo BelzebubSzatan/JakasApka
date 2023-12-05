@@ -8,5 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label Content="420"/>
+        <Button Content="JP||2137"/>
     </Grid>
 </Window>
